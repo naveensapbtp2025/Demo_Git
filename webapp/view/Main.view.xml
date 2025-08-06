@@ -2,6 +2,6 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-    <Text id="zakas" text="Welcome Universal boss 1 "></Text>
+    <Text id="zakas" text="Welcome Universal boss2 "></Text>
     </Page>
 </mvc:View>
